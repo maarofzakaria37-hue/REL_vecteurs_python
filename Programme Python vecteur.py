@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 # Positions du mobile
 x = np.array([])
 
-y = np.array([])  #
+y = np.array([]) 
 
 
 N = len(x)
